@@ -37,7 +37,7 @@ dependencies {
     compile('org.springframework.boot:spring-boot-starter-data-rest')
     compile('org.springframework.boot:spring-boot-starter-data-jpa')
     compile('org.springframework.boot:spring-boot-starter-hateoas')
-    compile('com.irdeto.rrm.ls:dtos:0.0.1-SNAPSHOT')
+    compile('nl.ekholabs.microservices.bookstore.domain:domain:0.0.1-SNAPSHOT')
     runtime('org.postgresql:postgresql')
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }

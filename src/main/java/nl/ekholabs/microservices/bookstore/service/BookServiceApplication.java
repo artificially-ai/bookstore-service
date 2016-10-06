@@ -10,9 +10,9 @@ import org.springframework.cloud.netflix.hystrix.EnableHystrix;
 @EnableEurekaClient
 @EnableDiscoveryClient
 @SpringBootApplication
-public class PlayreadyServiceApplication {
+public class BookServiceApplication {
 
   public static void main(String... args) {
-    SpringApplication.run(PlayreadyServiceApplication.class, args);
+    SpringApplication.run(BookServiceApplication.class, args);
   }
 }
