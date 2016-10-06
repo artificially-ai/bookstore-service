@@ -1,6 +1,6 @@
-package com.irdeto.rrm.ls.model;
+package nl.ekholabs.microservices.bookstore.service.model;
 
-import com.irdeto.rrm.ls.enums.TrackType;
+import nl.ekholabs.microservices.bookstore.service.enums.TrackType;
 
 import org.hibernate.annotations.GenericGenerator;
 

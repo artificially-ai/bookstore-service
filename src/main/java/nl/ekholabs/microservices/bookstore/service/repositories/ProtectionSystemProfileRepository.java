@@ -1,6 +1,6 @@
-package com.irdeto.rrm.ls.repositories;
+package nl.ekholabs.microservices.bookstore.service.repositories;
 
-import com.irdeto.rrm.ls.model.ProtectionSystemProfile;
+import nl.ekholabs.microservices.bookstore.service.model.ProtectionSystemProfile;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;

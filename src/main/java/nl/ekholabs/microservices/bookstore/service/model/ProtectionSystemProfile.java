@@ -1,4 +1,4 @@
-package com.irdeto.rrm.ls.model;
+package nl.ekholabs.microservices.bookstore.service.model;
 
 import org.hibernate.annotations.GenericGenerator;
 

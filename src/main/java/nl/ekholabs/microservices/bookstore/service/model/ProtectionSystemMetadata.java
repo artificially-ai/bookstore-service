@@ -1,6 +1,6 @@
-package com.irdeto.rrm.ls.model;
+package nl.ekholabs.microservices.bookstore.service.model;
 
-import com.irdeto.rrm.ls.enums.ProtectionSystemType;
+import nl.ekholabs.microservices.bookstore.service.enums.ProtectionSystemType;
 
 import org.hibernate.annotations.GenericGenerator;
 

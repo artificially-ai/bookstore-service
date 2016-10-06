@@ -1,4 +1,4 @@
-package com.irdeto.rrm.ls.enums;
+package nl.ekholabs.microservices.bookstore.service.enums;
 
 public enum TrackType {
 
