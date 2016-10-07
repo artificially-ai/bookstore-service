@@ -22,7 +22,7 @@ public class Book {
 
     private String author;
 
-    protected Book() {
+    Book() {
     }
 
     public Book(String id, String title, String author) {
